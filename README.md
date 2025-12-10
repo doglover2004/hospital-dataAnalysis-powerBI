@@ -35,3 +35,7 @@ Purpose:
 #•	Patients with recovered outcomes tend to have higher satisfaction compared to those marked as stable.
 #•	Cost by procedure is highest for Surgery and Chemotherapy.
 #•	Gender distribution is fairly balanced, with a slight male majority.
+
+
+##6. Tools Used
+
