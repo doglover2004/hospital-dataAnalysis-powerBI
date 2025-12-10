@@ -11,6 +11,9 @@ DATASET USED
 
 3. Key Metrics & KPIs
 -•	Average Cost: 8.37K
+•	Average Length of Stay: 37.66 days
+•	Average Satisfaction: 3.60
+•	First Readmission Rate: No (No patient readmitted first time in this filter)
 
-
-
+4.Dashboard Visualizations
+- <a href="https://github.com/doglover2004/hospital-dataAnalysis-powerBI/blob/main/dashboard.png"> Dashboard</a>
