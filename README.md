@@ -10,7 +10,7 @@ DATASET USED
 - <a href="https://github.com/doglover2004/hospital-dataAnalysis-powerBI/blob/main/hospital%20data%20analysis%20(1).csv"> DATASET</a>
 
 3. Key Metrics & KPIs
--•	Average Cost: 8.37K
+
 
 
 
