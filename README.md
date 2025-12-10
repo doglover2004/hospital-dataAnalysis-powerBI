@@ -17,13 +17,13 @@ DATASET USED
 
 4.Dashboard Visualizations
 
-Treemap - Cost by Procedure	Displays the total cost distribution across different procedures (e.g., Surgery, Angioplasty, CT Scan).
-Pie Chart - Readmission	Shows the proportion of patients readmitted. 73.17% were readmitted.
-Bar Chart - Length of Stay by Condition	Compares total hospital stay duration across medical conditions.
-Bar Chart - Cost by Condition	Highlights cost-heavy conditions like Cancer, Prostate issues, and Heart Diseases.
-Donut Chart - Gender Distribution	53% Male, 46% Female.
-Bar Chart - Age Distribution	Patient count distribution across age groups (20–80 years).
-Bar Chart - Satisfaction by Outcome	Higher satisfaction scores are linked with recovered patients.
+TREEMAP - Cost by Procedure	Displays the total cost distribution across different procedures (e.g., Surgery, Angioplasty, CT Scan).
+PIE CHART - Readmission	Shows the proportion of patients readmitted. 73.17% were readmitted.
+BAR CHART - Length of Stay by Condition	Compares total hospital stay duration across medical conditions.
+BAR CHART - Cost by Condition	Highlights cost-heavy conditions like Cancer, Prostate issues, and Heart Diseases.
+DONUT CHART - Gender Distribution	53% Male, 46% Female.
+BAR CHART - Age Distribution	Patient count distribution across age groups (20–80 years).
+BAR CHART - Satisfaction by Outcome	Higher satisfaction scores are linked with recovered patients.
 
 
 - <a href="https://github.com/doglover2004/hospital-dataAnalysis-powerBI/blob/main/dashboard.png"> Dashboard</a>
