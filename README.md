@@ -36,6 +36,8 @@ Purpose:
 #•	Cost by procedure is highest for Surgery and Chemotherapy.
 #•	Gender distribution is fairly balanced, with a slight male majority.
 
+6. Final Conclusion
+
 
 This Power BI dashboard provides a complete and data-driven view of hospital performance. It clearly highlights patient demographics, medical conditions, treatment procedures, costs, satisfaction levels, and outcomes.
 
