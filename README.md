@@ -38,7 +38,6 @@ DATASET USED
 
 6. Final Conclusion
 
-
 This Power BI dashboard provides a complete and data-driven view of hospital performance. It clearly highlights patient demographics, medical conditions, treatment procedures, costs, satisfaction levels, and outcomes.
 
 Key metrics such as average cost, average satisfaction, and length of stay help understand both patient experience and operational efficiency. The visual charts allow easy comparison across conditions, procedures, and genders. With interactive filters, the dashboard supports quick decision-making and helps identify areas where the hospital can improve patient care, reduce treatment costs, and enhance overall service quality.
