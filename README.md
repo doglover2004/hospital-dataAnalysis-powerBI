@@ -27,3 +27,11 @@ Purpose:
 
 
 - <a href="https://github.com/doglover2004/hospital-dataAnalysis-powerBI/blob/main/dashboard.png"> Dashboard</a>
+
+
+##5. Insights & Observations
+#•	Cancer treatments are among the most expensive and also have longer hospital stays.
+#•	The readmission rate is high (73%), which may indicate treatment gaps or premature discharge.
+#•	Patients with recovered outcomes tend to have higher satisfaction compared to those marked as stable.
+#•	Cost by procedure is highest for Surgery and Chemotherapy.
+#•	Gender distribution is fairly balanced, with a slight male majority.
