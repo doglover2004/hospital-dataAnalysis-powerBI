@@ -1,2 +1,7 @@
-# hospital-dataAnalysis-powerBI
-This Power BI dashboard provides a comprehensive overview of hospital patient data, covering cost, satisfaction, demographics, procedures, and outcomes.
+POWER BI WORKFLOW
+Hospital Records
+1. Project Overview
+•	Project Title: Hospital Records Analytics Dashboard
+•	Developed By: Krishna kumar S
+
+
